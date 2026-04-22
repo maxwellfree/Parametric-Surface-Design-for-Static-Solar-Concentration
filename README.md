@@ -3,6 +3,7 @@
 This repository contains the implementation associated with the paper:
 
 **"Parametric Surface Design for Static Solar Concentration: Enhancing Plastic Waste Pyrolysis in Sustainable Housing"**
+https://doi.org/10.1016/j.matcom.2026.04.024
 
 The code combines a mathematical model for solar geometry and parametric mirror design with an embedded implementation for physical construction and validation.
 
